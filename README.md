@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Deep
 
-<!--
-**piyushdeep024/piyushdeep024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** CSE (AI & ML)  
+📅 **Year:** 2025 – 2029  
 
-Here are some ideas to get you started:
+💡 I aim to learn and master Artificial Intelligence, Machine Learning, and real-world software development to build impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently exploring AI, ML, and programming fundamentals  
+- 💻 Passionate about coding and technology  
+- 🤖 Interested in building intelligent systems  
+- 🎯 Goal: To become a skilled AI/ML engineer  
+
+---
+
+## 🛠️ Skills (Learning)
+- Programming: Python, C/C++  
+- Domains: AI, Machine Learning  
+- Tools: Git, GitHub  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/your-username  
+
+---
+
+⭐ *"Learning today, building tomorrow."*
