@@ -16,15 +16,10 @@
 ---
 
 ## 🛠️ Skills (Learning)
-- Programming: Python, C/C++  
+- Programming: Python, C,HTML  
 - Domains: AI, Machine Learning  
 - Tools: Git, GitHub  
 
----
 
-## 📫 Connect with Me
-- GitHub: https://github.com/your-username  
 
----
-
-⭐ *"Learning today, building tomorrow."*
+ *"Learning today, building tomorrow."*
